@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="anim_duration_long">500</integer>
+    <integer name="detail_animationY">200</integer>
+    <integer name="detail_animationX">100</integer>
+    <integer name="anim_scrollUp">100</integer>
+</resources>

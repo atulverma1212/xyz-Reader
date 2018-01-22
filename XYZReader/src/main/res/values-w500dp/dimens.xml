@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="detail_cardview_maxWidth">500dp</dimen>
+    <dimen name="detail_carview_negativeMargin">-150dp</dimen>
+    <dimen name="appbar_height">180dp</dimen>
+    <dimen name="standard_padding">16dp</dimen>
+    <dimen name="detail_inner_margin">16dp</dimen>
+</resources>
